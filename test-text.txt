@@ -4,8 +4,3 @@ Python is best language!
 
 add another new text
 yeaah
-
-
-side by side
-----------------------------------
-
